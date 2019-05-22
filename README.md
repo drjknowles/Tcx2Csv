@@ -5,6 +5,8 @@ Use on the command line using the tcx file as the only parameter and it will cre
 
 ### Example Usage
 
+
+#### OS X
 ```bash
-./tcx2csv myFitbitRun.tcx
+dotnet tcx2csv.dll myFitbitRun.tcx
 ```
